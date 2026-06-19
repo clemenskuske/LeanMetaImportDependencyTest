@@ -20,6 +20,6 @@ ProofSubmissions:
       AxiomReference: GraphCutVertex.Statements.CutVertexRemoval.cut_vertex_removal_not_connected
       ProofObligations:
         - TwoComponentsNotConnected.Statements.TwoComponentsDisconnected.two_components_not_connected
-submissionIssueNumber: 6
+submissionIssueNumber: "6"
 submissionIssueUrl: "https://github.com/clemenskuske/Lean-Meta-Library/issues/6"
-Commit: "048e876bbf046f7d1a274719e41fc563af0219e6"
+Commit: "5e1621456a64cf042d05f662ebc5e434b9777da4"
